@@ -17,9 +17,9 @@ download from my github
 ## 3 go to chrome extention
 chrome://extensions/
 
-#### remember to turn on the developer mode
+#### remember to turn on the "developer mode"
 
-#### and click 
+#### and click "Load unpacked"
 ![](https://i.imgur.com/D36kaHI.jpg)
 
 #### choose the file
